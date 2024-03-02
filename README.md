@@ -1,4 +1,4 @@
-# Personal-portfolio---2024
+# Portfolio
 Personal portfolio using HTML, CSS, Javascript - 2024
 
 
